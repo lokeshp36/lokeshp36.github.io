@@ -1,0 +1,12 @@
+* {
+    font-family: "Source Sans Pro";
+}
+
+.main {
+    display: grid;
+    place-items: center;
+}
+
+.sub {
+    height: 100vh;
+}
